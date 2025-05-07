@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.2",
+    "dotenv": "^16.5.0",
+    "firebase": "^11.6.1",
+    "firebase-admin": "^13.3.0",
+    "fs": "^0.0.1-security",
+    "jimp": "0.16.1",
+    "node-fetch": "^3.3.2",
+    "os": "^0.1.2",
+    "sharp": "^0.34.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.10"
+  }
+}
